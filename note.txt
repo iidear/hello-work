@@ -1,4 +1,0 @@
-备忘
-
-新建分支 git branch BRANCH-NAME
-切换分支 git checkout BRANCH-NAME
